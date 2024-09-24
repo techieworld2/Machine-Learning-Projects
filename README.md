@@ -8,3 +8,8 @@ Machine Learning Projects:
 
 5. **Linear and Logistic Regression From Scratch**
 6. Dataset Include: diabetes.csv,salary.csv
+
+7. **Sentiment Analysis With LSTM**
+8. Training LSTM On imdb movie reviews dataset.
+9. Visualizing the Accuracy and loss with training and validation data
+10. Exporting and downloading the model to train it on unseen datasets
