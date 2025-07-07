@@ -78,7 +78,7 @@ class ResearchAgent(BaseAgent):
                 results = self.search_tool.search(query, max_results=5)
                 all_results.extend(results)
             except Exception as e:
-                self.logger.warning(f"Search failed for query '{query}': {str(e)}")
+                logger.warning(f"Search failed for query '{query}': {str(e)}")
                 continue
         
         # Remove duplicates based on URL
