@@ -1,0 +1,23 @@
+# Core LangGraph and LangChain
+langgraph>=0.0.40
+langchain-community>=0.0.29
+langchain-core>=0.1.45
+langchain-ollama>=0.1.0
+
+# Research and web scraping
+duckduckgo-search>=3.8.3
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.2
+
+# PDF generation and document processing
+weasyprint>=59.0
+markdown>=3.4.3
+
+# Data processing and validation
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Utilities
+colorama>=0.4.6
+typing-extensions>=4.5.0
