@@ -10,6 +10,6 @@ Machine Learning Projects:
 6. Dataset Include: diabetes.csv,salary.csv
 
 7. **Sentiment Analysis With LSTM**
-8. Training LSTM On imdb movie reviews dataset.
+8. Training LSTM On imdb movie reviews datasets.
 9. Visualizing the Accuracy and loss with training and validation data
 10. Exporting and downloading the model to train it on unseen datasets
